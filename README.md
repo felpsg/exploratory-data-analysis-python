@@ -1,4 +1,4 @@
-# Análise de Seguros com Python
+# Análise de Dados Probatória com Python
 
 Este projeto consiste em uma análise exploratória dos dados de um conjunto de pacientes e seus respectivos custos de seguro. O objetivo é identificar as relações entre as variáveis presentes nos dados, como idade, gênero, região e se o paciente é fumante. Os gráficos gerados a partir dessas variáveis são visualizados e analisados para obter insights.
 
