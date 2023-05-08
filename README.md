@@ -41,10 +41,10 @@ Foram realizados diversos gráficos utilizando as funções definidas no código
 ![Distribuição da Idade dos Pacientes com Pelo Menos Um Filho](images/Figure_5.png)
 
 ### Distribuição de Sex
-![Distribuição de Sex](images/Figure_6.ng)
+![Distribuição de Sex](images/Figure_6.png)
 
 ### Distribuição de Fumantes
-![Distribuição de Fumantes](images/Figure_7.ng)
+![Distribuição de Fumantes](images/Figure_7.png)
 
 ### Distribuição de Região
-![Distribuição de Região](images/Figure_8.ng)
+![Distribuição de Região](images/Figure_8.png)
